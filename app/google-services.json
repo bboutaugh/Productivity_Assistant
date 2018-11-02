@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "933005283653",
+    "firebase_url": "https://cs4320-group-14-project.firebaseio.com",
+    "project_id": "cs4320-group-14-project",
+    "storage_bucket": "cs4320-group-14-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933005283653:android:2a4ea1bcb455fc58",
+        "android_client_info": {
+          "package_name": "com.cs4320project.group14.cs4320_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933005283653-gegiqjh4lashpjbvchjufgrt186im04q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs4320project.group14.cs4320_project",
+            "certificate_hash": "a53f3c21f9ef353f6671adc6a23d887d93de54d1"
+          }
+        },
+        {
+          "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SpQChtlxhtD4gHF4oI86GOJdsf4Hzek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933005283653:android:2bddd23ffb7338a0",
+        "android_client_info": {
+          "package_name": "com.example.sharozeamir.softwareengineering4320"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933005283653-23qh1lkuuosq9q35ho3e8vpok14rn4oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharozeamir.softwareengineering4320",
+            "certificate_hash": "2bda49b9844ed692c47ab845e6a8f6cf20417361"
+          }
+        },
+        {
+          "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SpQChtlxhtD4gHF4oI86GOJdsf4Hzek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933005283653:android:0a2d74719cf5be8a",
+        "android_client_info": {
+          "package_name": "com.productivityassistant.group14.productivity_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933005283653-nkqisogtal6m3pgl8798bp1rs7otp6u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.productivityassistant.group14.productivity_assistant",
+            "certificate_hash": "a53f3c21f9ef353f6671adc6a23d887d93de54d1"
+          }
+        },
+        {
+          "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SpQChtlxhtD4gHF4oI86GOJdsf4Hzek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933005283653-podhf7vp0c4vkdi9isk43hm0mnm1lk1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
